@@ -1,0 +1,14 @@
+{
+  "name": "exphwapp",
+  "version": "1.0.0",
+  "description": "First app to be deployed.",
+  "main": "app.js",
+  "author": "Chezaboy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "build": "node app.js"
+  }
+}
